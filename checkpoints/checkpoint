@@ -1,0 +1,2 @@
+model_checkpoint_path: "sarcasm_checkpoint"
+all_model_checkpoint_paths: "sarcasm_checkpoint"
